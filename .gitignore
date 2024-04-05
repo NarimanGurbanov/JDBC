@@ -27,3 +27,4 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+/.idea/libraries/mysql_connector_j_8_3_0.xml
